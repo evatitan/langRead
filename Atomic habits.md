@@ -50,3 +50,12 @@ Chapter 7 The secret to self-control
 - Self-control is a short-term strategy, not a long-term one.
 
 Chapter 8 How to make a habit irresistible
+- The 2nd law of behavior change is make it attractive.
+- The more attractive opportunity is, the more likely it is to become habit-forming.
+- Habits are dopamine-driven feedback loop. When dopamine rises, so does our motivation to act.
+- It is the anticipation of a reward, not the fulfillment of it. That gets us to take action. The greater the anticipation, the greater the dopamine spike.
+- Temptation bundling is one way to make your habits more attractive. The strategy is to pair an action you want to do with an action you need to do.
+
+
+
+
