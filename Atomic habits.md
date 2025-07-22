@@ -56,6 +56,12 @@ Chapter 8 How to make a habit irresistible
 - It is the anticipation of a reward, not the fulfillment of it. That gets us to take action. The greater the anticipation, the greater the dopamine spike.
 - Temptation bundling is one way to make your habits more attractive. The strategy is to pair an action you want to do with an action you need to do.
 
+Chapter 9 The role of Family and Friends Shaping Your Habits
+- The culture we live in determines which behaviors are attractive to us.
+- We tend to adopt habits that are **praised** and approved of by our culture because we have a strong desire to fit in and belong to the **tribe**.
+- We tend to imitate the habit of three social groups: the close(family and friend), the many(the tribe), and the powerful(those with status and prestige)
+- One of the most effective things you can do to build better habits is to join a culture where (1) your desired behavior is the normal behavior and (2)you already have something in common with the group.
+- The normal behavior of the tribe often overpower the desired behavior of individual. Most days, we would rather be wrong with the crowd than be right by ourselves.
+- If a behavior can get us approval, respect, and **praise**, we find it attractive.
 
-
-
+Chapter 10 How to Find and Fix the Causes of Your Bad Habits
