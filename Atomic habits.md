@@ -65,3 +65,10 @@ Chapter 9 The role of Family and Friends Shaping Your Habits
 - If a behavior can get us approval, respect, and **praise**, we find it attractive.
 
 Chapter 10 How to Find and Fix the Causes of Your Bad Habits
+- The inversion of the 2nd Law of Behavior Change is make it unattractive.
+- Every behavior has a surface level craving and a deeper underlying motive.
+- Your habits are modern-day solutions to ancient desires.
+- The cause of your habits is actually the prediction that precedes them.
+- Highlight the benefits of avoiding a bad habit to make it seem unattractive.
+- Habits are attractive when we associate them with positive feelings and unattractive when we associate them with negative feelings. Create a motivation ritual by doing something you enjoy immediately before a difficult habit.
+- Life feels reactive, but it is actually predictive.
