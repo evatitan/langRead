@@ -65,10 +65,52 @@ Chapter 9 The role of Family and Friends Shaping Your Habits
 - If a behavior can get us approval, respect, and **praise**, we find it attractive.
 
 Chapter 10 How to Find and Fix the Causes of Your Bad Habits
-- The inversion of the 2nd Law of Behavior Change is make it unattractive.
-- Every behavior has a surface level craving and a deeper underlying motive.
+- The **inversion** of the 2nd Law of Behavior Change is make it unattractive.
+- Every behavior has a **surface** level craving and a deeper **underlying motive**.
 - Your habits are modern-day solutions to ancient desires.
-- The cause of your habits is actually the prediction that precedes them.
+- The cause of your habits is actually the prediction that **precedes** them.
 - Highlight the benefits of avoiding a bad habit to make it seem unattractive.
 - Habits are attractive when we associate them with positive feelings and unattractive when we associate them with negative feelings. Create a motivation ritual by doing something you enjoy immediately before a difficult habit.
-- Life feels reactive, but it is actually predictive.
+- Life feels **reactive**, but it is actually **predictive**.
+
+Chapter 11 Walk Slowly, but Never **Backward**
+- The 3rd Law of behavior change is make it easy.
+- The most effective form of learning is practice, not planning.
+- Focus on taking action, not being motion.
+- Habit formation is the process by which a behavior becomes progressively more automatic through repetition.
+- The amount of time you have been performing a habit is not as important as the number of times you have performed it.
+
+Chapter 12 The Law of Least Effort
+- Human behavior follows the Law of **Least Effort**. We will naturally gravitate toward the option that requires the least of work.
+- Create an environment where doing the right thing is as easy as possible.
+- Reduce the **friction** associated with good behavior. When friction is low, habits are easy.
+- Increase the friction associated with bad behaviors. When friction is high, habits are difficult. 
+- Prime your environment to make future actions easier.
+
+Chapter 13 How to stop **procrastinate** by using the Two-Minute rules
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
