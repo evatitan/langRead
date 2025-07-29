@@ -2,9 +2,9 @@
 
 Captar 1 The Surprising Power of Atomic Habits
 - Habits are the compound interest of selfimprovement. Getting 1 percent better every day counts of a lot in a long-run. 
-- Habits are a **double-edged sword**, They can work for you or against you, which why understanding the details is essential.
+- Habits are a **double-edged sword**, they can work for you or against you, which why understanding the details is essential.
 - Small changes often appear to make no difference until you cross a **critical threshold**. The most powerful outcomes of any compounding process are delayed. You need to be patient.
-- An atomic habit is a little habit that is part of larger system. Just as atoms are the building blocks of molecules, atomic habits are the building blocks of remarkable results.
+- An atomic habit is a little habit that is part of larger system. Just as atoms are the building blocks of **molecules**, atomic habits are the building blocks of remarkable results.
 - If you want better results, then forget about setting goals. Focus on your system instead.
 - You do not rise to the level of your goals. You fall to the level of your systems.
 
@@ -22,11 +22,11 @@ Chapter 3 How to build better habit in 4 simple steps
 - The four laws of behavior change are a simple set of rules we can use to build better habits. They are: a. make it obvios, b. make it attractive, c. make it easy, d. make it satisfying.
 
 Chapter 4 The man who didn't look right
-- With enough practice, your brain will pick up on the cues that predict certain outcomes without consciously thinking about it.
+- With enough practice, your brain will pick up on the cues that predict certain outcomes without **consciously** thinking about it.
 - Once our habits became automatic, we stop playing attention to what we are doing.
 - The process of behavior change always starts with awareness. You need to be aware of your habits before you can change them.
 - Pointing-and-calling raises your level of awareness from a **nonconscious** habit to a more conscious level by **verbalizing** your actions.
-- The habits scorecard is a simple exercise you can use to become more aware of your behavior.
+- The habits **scorecard** is a simple exercise you can use to become more aware of your behavior.
 
 Chapter 5 The best way to start a new habit.
 - The 1st law of behavior change is make it obvious.
@@ -36,7 +36,7 @@ Chapter 5 The best way to start a new habit.
 - **Habit stacking** is a strategy you can use to pair a new habit with a current habit.
 - The habit stacking formula is : After [CURRENT HABIT], I will [NEW HABIT].
 
-Chapter 6 Motivation is overrated, Environment often matters more
+Chapter 6 Motivation is overrated, environment often matters more
 - Small changes in context can lead to large changes in behavior over time.
 - Every habit is **initiated** by a cue. We are more likely to notice cues that stand out.
 - Make the cues of good habits obvious in your environment.
@@ -44,47 +44,47 @@ Chapter 6 Motivation is overrated, Environment often matters more
 - It is easier to build new habits in a new environment because you are not fighting against old cues.
 
 Chapter 7 The secret to self-control
-- THe inversion of the 1st Law of Behavior Change is make it invisible.
+- The inversion of the 1st Law of Behavior Change is **make it invisible**.
 - Once a habit is formed, it is unlikely to be forgotten.
 - People with high self-control tend to spend less time to tempting situations. Its easier to avoid temptation than resist it.
-- One of the most practical ways to eliminate a bad habit is to reduce exposure to the cue that cause it.
+- One of the most practical ways to eliminate a bad habit is to reduce **exposure** to the cue that cause it.
 - Self-control is a short-term strategy, not a long-term one.
 
-Chapter 8 How to make a habit irresistible
-- The 2nd law of behavior change is make it attractive.
+Chapter 8 How to make a habit **irresistible**
+- The 2nd law of behavior change is **make it attractive**.
 - The more attractive opportunity is, the more likely it is to become habit-forming.
-- Habits are dopamine-driven feedback loop. When dopamine rises, so does our motivation to act.
-- It is the anticipation of a reward, not the fulfillment of it. That gets us to take action. The greater the anticipation, the greater the dopamine spike.
+- Habits are **dopamine-driven** feedback loop. When dopamine rises, so does our motivation to act.
+- It is the **anticipation** of a reward, not the fulfillment of it. That gets us to take action. The greater the anticipation, the greater the dopamine **spike**.
 - Temptation bundling is one way to make your habits more attractive. The strategy is to pair an action you want to do with an action you need to do.
 
 Chapter 9 The role of Family and Friends Shaping Your Habits
 - The culture we live in determines which behaviors are attractive to us.
 - We tend to adopt habits that are **praised** and approved of by our culture because we have a strong desire to fit in and belong to the **tribe**.
-- We tend to imitate the habit of three social groups: the close(family and friend), the many(the tribe), and the powerful(those with status and prestige)
+- We tend to imitate the habit of three social groups: the close(family and friend), the many(the tribe), and the powerful(those with status and **prestige**)
 - One of the most effective things you can do to build better habits is to join a culture where (1) your desired behavior is the normal behavior and (2)you already have something in common with the group.
-- The normal behavior of the tribe often overpower the desired behavior of individual. Most days, we would rather be wrong with the crowd than be right by ourselves.
+- The normal behavior of the tribe often overpower the desired behavior of **individual**. Most days, we would rather be wrong with the **crowd** than be right by ourselves.
 - If a behavior can get us approval, respect, and **praise**, we find it attractive.
 
 Chapter 10 How to Find and Fix the Causes of Your Bad Habits
-- The **inversion** of the 2nd Law of Behavior Change is make it unattractive.
+- The **inversion** of the 2nd Law of Behavior Change is **make it unattractive**.
 - Every behavior has a **surface** level craving and a deeper **underlying motive**.
 - Your habits are modern-day solutions to ancient desires.
 - The cause of your habits is actually the prediction that **precedes** them.
 - Highlight the benefits of avoiding a bad habit to make it seem unattractive.
-- Habits are attractive when we associate them with positive feelings and unattractive when we associate them with negative feelings. Create a motivation ritual by doing something you enjoy immediately before a difficult habit.
+- Habits are attractive when we associate them with positive feelings and unattractive when we associate them with negative feelings. Create a motivation **ritual** by doing something you enjoy immediately before a difficult habit.
 - Life feels **reactive**, but it is actually **predictive**.
 
 Chapter 11 Walk Slowly, but Never **Backward**
-- The 3rd Law of behavior change is make it easy.
+- The 3rd Law of behavior change is **make it easy**.
 - The most effective form of learning is practice, not planning.
 - Focus on taking action, not being motion.
 - Habit formation is the process by which a behavior becomes progressively more automatic through repetition.
 - The amount of time you have been performing a habit is not as important as the number of times you have performed it.
 
 Chapter 12 The Law of Least Effort
-- Human behavior follows the Law of **Least Effort**. We will naturally gravitate toward the option that requires the least of work.
+- Human behavior follows the Law of **Least Effort**. We will naturally **gravitate** toward the option that requires the least of work.
 - Create an environment where doing the right thing is as easy as possible.
-- Reduce the **friction** associated with good behavior. When friction is low, habits are easy.
+- Reduce the **friction** associated with good behaviors. When friction is low, habits are easy.
 - Increase the friction associated with bad behaviors. When friction is high, habits are difficult. 
 - Prime your environment to make future actions easier.
 
@@ -97,11 +97,11 @@ Chapter 13 How to stop **procrastinate** by using the Two-Minute rules
 - **Standardize** before you optimize. You can not improve a habits that does not exist.
 
 Chapter 14 How to make good habits inevitable and bad habits impossible
-- The inversion of the 3rd Law of behavior change is make it difficult.
+- The inversion of the 3rd Law of behavior change is **make it difficult**.
 - A **commitment device** is a choice you make in the present that locks in better behavior in the future.
 - The ultimate way to lock in future behavior is to automate your habits.
-- **Onetime choices** - like buying a better mattress of enrolling in an automatic saving plan - are single actions that automate your future habits and deliver increasing returns over time.
-- Using technology to automate your habits is the most reliable and effective way to guarantee the right behavior.
+- **Onetime choices** - like buying a better **mattress** of enrolling in an automatic saving plan - are single actions that automate your future habits and deliver increasing returns over time.
+- Using technology to automate your habits is the most reliable and effective way to **guarantee** the right behavior.
 
 Chapter 15 The **Cardinal Rule** of behavior change
 
