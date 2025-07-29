@@ -1,4 +1,5 @@
 # Atomic Habits - James Clear
+
 Captar 1 The Surprising Power of Atomic Habits
 - Habits are the compound interest of selfimprovement. Getting 1 percent better every day counts of a lot in a long-run. 
 - Habits are a **double-edged sword**, They can work for you or against you, which why understanding the details is essential.
@@ -24,7 +25,7 @@ Chapter 4 The man who didn't look right
 - With enough practice, your brain will pick up on the cues that predict certain outcomes without consciously thinking about it.
 - Once our habits became automatic, we stop playing attention to what we are doing.
 - The process of behavior change always starts with awareness. You need to be aware of your habits before you can change them.
-- Pointing-and-calling raises your level of awareness from a nonconscious habit to a more conscious level by **verbalizing** your actions.
+- Pointing-and-calling raises your level of awareness from a **nonconscious** habit to a more conscious level by **verbalizing** your actions.
 - The habits scorecard is a simple exercise you can use to become more aware of your behavior.
 
 Chapter 5 The best way to start a new habit.
@@ -88,9 +89,21 @@ Chapter 12 The Law of Least Effort
 - Prime your environment to make future actions easier.
 
 Chapter 13 How to stop **procrastinate** by using the Two-Minute rules
+- Make it easy to start, the rest will follow.
+- Habit can be completed in a few seconds but continue to impact your behavior for minutes or hours afterward.
+- Many habits occur at **decisive moments** - choices that are like a fork in the road - and either send you in the direction of a productive day or an unproductive one.
+- The **Two-Minute Rule** states, "When you start a new habit, it should take less than two minutes to do."
+- The more you **ritualize** the beginning of a process, the more likely it becomes that you can **slip into** the state of deep focus that is required to do great things.
+- **Standardize** before you optimize. You can not improve a habits that does not exist.
 
+Chapter 14 How to make good habits inevitable and bad habits impossible
+- The inversion of the 3rd Law of behavior change is make it difficult.
+- A **commitment device** is a choice you make in the present that locks in better behavior in the future.
+- The ultimate way to lock in future behavior is to automate your habits.
+- **Onetime choices** - like buying a better mattress of enrolling in an automatic saving plan - are single actions that automate your future habits and deliver increasing returns over time.
+- Using technology to automate your habits is the most reliable and effective way to guarantee the right behavior.
 
-
+Chapter 15 The **Cardinal Rule** of behavior change
 
 
 
