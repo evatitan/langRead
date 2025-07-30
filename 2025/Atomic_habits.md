@@ -104,7 +104,13 @@ Chapter 14 How to make good habits inevitable and bad habits impossible
 - Using technology to automate your habits is the most reliable and effective way to **guarantee** the right behavior.
 
 Chapter 15 The **Cardinal Rule** of behavior change
-
+- Change is easy when it is enjoyable.
+- The 4th Law of Behavior Change is make it satisfying.
+- We are more likely to repeat a behavior when the experience is satisfying.
+- The human brain evolved to prioritize immediate rewards over delayed rewards.
+- The Cardinal RUle of Behavior Change: What is immediately rewarded is repeated, what is immediately punished is avoided.
+- To get a habit to stick you need to feel immediately successful, even if its in a small way.
+- The first three laws of behavior change, make it obvious, make it attractive, and make it easy. Increase the odds that a behavior will be performed this time. The fourth law of behavior change-make it satisfying-increase the odds that a behavior will be repeated next time.
 
 
 
