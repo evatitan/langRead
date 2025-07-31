@@ -112,7 +112,13 @@ Chapter 15 The **Cardinal Rule** of behavior change
 - To get a habit to stick you need to feel immediately successful, even if its in a small way.
 - The first three laws of behavior change, make it obvious, make it attractive, and make it easy. Increase the odds that a behavior will be performed this time. The fourth law of behavior change-make it satisfying-increase the odds that a behavior will be repeated next time.
 
-
+Chapter 16 How to stick with good habits every day
+- One of the most satisfying feelings is the feeling of making progress.
+- A habit tracker is a simple way to measure whether you did a habit, like marking an X on a calender.
+- Habit tracker and other visual forms of measurement can make your habits satisfying by providing clear evidence of your progress.
+- Do not break the chain. Try to keep your habit streak alive.
+- Never miss twice. If you miss one day, try to get back on track as quickly as possible.
+- Just because you can measure something does not mean it is the most important thing.
 
 
 
