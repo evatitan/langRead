@@ -120,6 +120,15 @@ Chapter 16 How to stick with good habits every day
 - Never miss twice. If you miss one day, try to get back on track as quickly as possible.
 - Just because you can measure something does not mean it is the most important thing.
 
+Chapter 17 How an Accountability Partner Can changes everything
+- The inversion of the 4th Law of Behavior Change is make it unsatisfying.
+- We are less likely to repeat a bad habit if it painful or unsatisfying.
+- An accountability partner can create an immediate cost to inaction. We care deeply about what others think of us, and we do not want others to have a lesser opinion of us.
+- A habit contract can be used to add a social cost to any behavior. It makes the cost of violating your promises public and painful.
+- Knowing that someone else is watching you can be a powerful motivator.
+
+Chapter 18 The truth about talent (when genes matter and when they do not)
+
 
 
 
