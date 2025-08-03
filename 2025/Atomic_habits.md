@@ -128,7 +128,16 @@ Chapter 17 How an Accountability Partner Can changes everything
 - Knowing that someone else is watching you can be a powerful motivator.
 
 Chapter 18 The truth about talent (when genes matter and when they do not)
+- The secret to maximizing your odds of success is to choose the right field of competition.
+- Pick the right habit and progress is easy. Pick the wrong habit and life is a struggle.
+- Genes cannot be easily changed, which means they provide a powerful advantage in favorable circumstances and a serious disadvantage in unfavorable circumstances.
+- Habits are easier when they align with your natural abilities. CHoose the habits that best suit you.
+- PLay a game that favors your strengths. If you can't find a game that favors you, create one.
+- Genes do not eliminate the need for hard work. They clarify it. They tell us what to work hard  on.
 
+Chapter 19 The goldilocks rule: how to stay motivated in life and work
+
+Chapter 20 The downside of creating good habits
 
 
 
