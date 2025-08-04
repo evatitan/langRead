@@ -137,7 +137,14 @@ Chapter 18 The truth about talent (when genes matter and when they do not)
 - Play a game that favors your strengths. If you can't find a game that favors you, create one.
 - Genes do not **eliminate** the need for hard work. They **clarify** it. They tell us what to work hard on.
 
-Chapter 19 The goldilocks rule: how to stay motivated in life and work
+Chapter 19 The Goldilocks Rule: how to stay motivated in life and work
+- The Goldilocks Rule states that humans experience peak motivation when working on tasks that are right on the edge of their current abilities.
+- The greatest threat to success is not failure but boredom.
+- As habits become routine, they become less interesting and less satisfying. We get bored.
+- Anyone can work hard when they feel motivated. It is the ability to keep going when work is not exciting that makes the difference.
+- Professional stick to the schedule, **amateurs** let life get in the way.
+- You have to fall in love with boredom. When a habit is truly important to you, you have to be willing to stick to it in any mood.
+- The only way to become excellent is to be endlessly fascinated by doing the same thing over and over.
 
 Chapter 20 The downside of creating good habits
 
@@ -245,3 +252,5 @@ Chapter 20 The downside of creating good habits
 **eliminate** /ɪˈlɪmɪneɪt/ v. 消除，排除
 
 **clarify** /ˈklærɪfaɪ/ v. 澄清，阐明
+
+**amateur** /ˈæmətər/ *n./adj.* 业余爱好者；业余的  
