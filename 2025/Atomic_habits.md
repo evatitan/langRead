@@ -38,11 +38,11 @@ Chapter 5 The best way to start a new habit
 - **Habit stacking** is a strategy you can use to pair a new habit with a current habit.
 - The habit stacking formula is : After [CURRENT HABIT], I will [NEW HABIT].
 
-Chapter 6 Motivation is overrated, environment often matters more
+Chapter 6 Motivation is **overrated**, environment often matters more
 - Small changes in context can lead to large changes in behavior over time.
 - Every habit is **initiated** by a cue. We are more likely to notice cues that stand out.
 - Make the cues of good habits obvious in your environment.
-- **Gradually**, your habits become associated not with a single trigger but with the entire context surrounding the behavior. The context becomes the cue.
+- Gradually, your habits become associated not with a single trigger but with the entire context surrounding the behavior. The context becomes the cue.
 - It is easier to build new habits in a new environment because you are not fighting against old cues.
 
 Chapter 7 The secret to self-control
@@ -151,6 +151,21 @@ Chapter 20 The downside of creating good habits
 - Habits + deliberate practice = Mastery
 - Reflection and review is a process that allows you to remain conscious of your performance over time.
 - The tighter we cling to an identity, the harder is becomes to grow beyond it.
+
+Conclusion The secret to result that last 
+- The secret to getting results that last is to never stop making improvements.
+- Sometime a habit will be hard to remember and you'll need to make it obvios. Other time you won't feel like starting and you'll need to make it attractive. In many cases, you may find that a habit will be too difficult and you'll need to make it easy. And sometimes, you won't feel like sticking with it and you'll need to make it satisfying.
+
+## Personal Book reflection
+
+I've just finished reading Atomic Habit by James Clear, which explores how habits are formed by how "Behavior Changes" can lead to long-term improvement. I choose this book because I had heard about it a few years ago, and I wanted to understand how people build habits in their lives.
+
+After reading it, I now have a a clearer understanding of the process behind creating what the author calls "atomic habits". I also learned why so many people fail when trying to form new habits, it's not just about motivation or willpower, but about systems and identity. I really liked how James presents his ideas through real-life stories and practical examples. That makes his message more convincing and easier to relate to. One idea that deeply resonated with me is his advice to not just set goals, but to focus on building a new identity.  The mindset shift makes many difference.
+
+This book made me rethink what success means. Creating a new habit isn't about reaching a final destination, it's about committing to continuous, small improvements. The key is to never stop growing, and to focus on becoming just 1% better everyday.
+
+H.H 
+20250806
 
 ## Glossary
 
@@ -283,3 +298,7 @@ Chapter 20 The downside of creating good habits
 **antidote** /ˈæntɪdəʊt/ *n.* 解药，对抗手段
 
 **overwhelm** /ˌəʊvəˈwelm/ *v.* 压倒，使不知所措
+
+**overrated** /ˌəʊvəˈreɪtɪd/ *adj.* 被高估的，评价过高的
+
+**unrelenting improvements** 持续不断的改进
