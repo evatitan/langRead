@@ -81,7 +81,19 @@ Part 1 A world doesnt start with a Why
 **partial** /ˈpɑːrʃəl/ adj. 部分的，偏爱的
 **regulator** /ˈreɡjəleɪtər/ n. 监管者，调节器
 **scrutiny** /ˈskruːtəni/ n. 仔细检查，审视
-
+**comply** /kəmˈplaɪ/ v. 遵守，服从
+**arguably** /ˈɑːrɡjuəbli/ adv. 可以说，可论证地
+**cripples** /ˈkrɪpəlz/ v. 削弱，使残疾
+**nefarious** /nɪˈfeəriəs/ adj. 邪恶的，恶毒的
+**dose** /doʊs/ n. 剂量，一剂
+**often-mimicked** /ˈɔːfən ˈmɪmɪkt/ adj. 经常被模仿的
+**pristine** /ˈprɪstiːn/ adj. 原始的，纯净的
+**agitate** /ˈædʒɪteɪt/ v. 激动，搅动
+**proverbial** /prəˈvɜːrbiəl/ adj. 众所周知的，谚语的
+**nagging** /ˈnæɡɪŋ/ adj. 唠叨的，持续困扰的
+**susceptible** /səˈseptəbəl/ adj. 易受影响的，敏感的
+**fraction** /ˈfrækʃən/ n. 分数，小部分
+**drawn to** /drɔːn tuː/ phr. 被吸引到，倾向于
 
 
 
