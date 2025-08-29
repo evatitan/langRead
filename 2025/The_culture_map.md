@@ -67,8 +67,11 @@ WHAT DOES IT MEAN TO BE POLITE?
 - The sophisticated global manager learns how to adapt—to alter his behavior a bit, to practice humility, to test the waters before speaking up, to assume goodwill on the part of others, and to invest time and energy in building good relationships.
 
 3. Why Versus How : The Art of Persuasion in a Multicultural World
-
-
+- Principles-first reasoning (sometimes referred to as deductive reasoning) derives conclusions or facts from general principles or concepts.
+- Applications-first reasoning (sometimes called inductive reasoning), general conclusions are reached based on a pattern of factual observations from the real world.
+- Without the ability to persuade others to support your ideas, you won’t be able to attract the support you need to turn those ideas into realities.
+- Most people are capable of practicing both principles-first and applications-first reasoning. But your habitual pattern of reasoning is heavily influenced by the kind of thinking emphasized in your culture’s educational structure.
+- people from principles-first cultures generally want to understand the why behind their boss’s request before they move to action. Meanwhile, applications-first learners tend to focus less on the why and more on the how.
 
 ## Glossary 
 **groceries** /ˈɡrəʊsəriz/ n. 食品杂货
