@@ -73,6 +73,15 @@ WHAT DOES IT MEAN TO BE POLITE?
 - Most people are capable of practicing both principles-first and applications-first reasoning. But your habitual pattern of reasoning is heavily influenced by the kind of thinking emphasized in your culture’s educational structure.
 - people from principles-first cultures generally want to understand the why behind their boss’s request before they move to action. Meanwhile, applications-first learners tend to focus less on the why and more on the how.
 
+STRATEGIES FOR PERSUADING ACROSS CULTURES
+- Build team awareness by explaining the scale. Have everybody read this chapter and discuss it during a team meeting.
+• A cultural bridge can help a lot. If you have team members who are bicultural or have significant experience living in different cultures, ask them to take responsibility for helping other team members.
+• Understand and adapt to one another’s behaviors.
+• Patience and flexibility are key. Cross-cultural effectiveness takes time. Developing your own ability to recognize others’ reactions and adapt accordingly will help you to be increasingly persuasive (and therefore effective) when working internationally.
+
+
+HOLISTIC THINKING: THE ASIAN APPROACH TO PERSUASION
+
 ## Glossary 
 **groceries** /ˈɡrəʊsəriz/ n. 食品杂货
 **startle** /ˈstɑːrtl/ v. 使惊吓；使震惊
@@ -251,7 +260,18 @@ WHAT DOES IT MEAN TO BE POLITE?
 **booths** /buːðs/ n. 展台；小隔间
 **calamities** /kəˈlæmətiz/ n. 灾难；不幸
 **inedible** /ɪnˈedəbl/ adj. 不能吃的；难以下咽的
-
+deductive
+moral
+induce
+holistic
+specific
+latter
+Hungary
+confrontation
+hierarchy
+peripheral
+revealed
+intriguing
 
 
 
