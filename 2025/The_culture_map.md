@@ -80,6 +80,10 @@ STRATEGIES FOR PERSUADING ACROSS CULTURES
 • Patience and flexibility are key. Cross-cultural effectiveness takes time. Developing your own ability to recognize others’ reactions and adapt accordingly will help you to be increasingly persuasive (and therefore effective) when working internationally.
 
 HOLISTIC THINKING: THE ASIAN APPROACH TO PERSUASION
+In holistic cultures if you need to motivate, manage, or persuade someone, you will be more influential if you take the time to explain the big picture and show how all the pieces fit together.
+
+In a specific culture when managing a supplier or team member, people usually respond well to receiving very detailed and segmented information about what you expect of each of them.
+
 AVOIDING THE PITFALLS, REAPING THE BENEFITS
 two tips: 
 First, on a multicultural team, you can save time by having as few people in the group work across cultures as possible.
