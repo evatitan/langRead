@@ -89,6 +89,28 @@ two tips:
 First, on a multicultural team, you can save time by having as few people in the group work across cultures as possible.
 Second, think carefully about your larger objectives before you mix cultures up.
 
+4. How mucho respect do you want? leadership, hierarchy, and power.
+
+power distance: the extent to which the less powerful members of organizations accept and expect that power is distributed unequally.
+egalitarian: The ideal distance between a boss and a subordinate is low. The best boss is a facilitator among equals. Organizational structure are flat. Communication often skips hierarchial lines.
+hierarchial: The ideal distance between a boss and a subordinate is high. The best boss is a strong multilayered and fixed. Communication follows set hierarchical lines.
+
+- LEARNING TO MANAGE IN A HIERARCHICAL CULTURE
+- LEVEL-HOPPING: LOOK BEFORE YOU JUMP
+- WHEN INTERNATIONAL STAFFERS SHOW TOO MUCH RESPECT—OR TOO LITTLE
+
+5. Big D or Little d? who Decides, and how?
+- CONSENSUS IS A FOUR-LETTER WORD
+- CONSENSUAL OR TOP-DOWN: WHICH DO YOU PREFER?
+- THE JAPANESE RINGI SYSTEM: HIERARCHICAL BUT ULTRA-CONSENSUAL
+- AVOIDING CULTURE CLASHES WHEN MAKING DECISIONS
+
+
+6. The Head or the Heart. Two Types of Trust and How They Grow
+
+
+
+
 ## Glossary 
 **groceries** /ˈɡrəʊsəriz/ n. 食品杂货
 **startle** /ˈstɑːrtl/ v. 使惊吓；使震惊
