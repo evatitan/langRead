@@ -107,9 +107,16 @@ hierarchial: The ideal distance between a boss and a subordinate is high. The be
 
 
 6. The Head or the Heart. Two Types of Trust and How They Grow
+- Cognitive trust is based on the confidence you feel in another person’s accomplishments, skills,and reliability. This is trust that comes from the head. It is often built through business interactions:We work together, you do your work well, and you demonstrate through the work that you are reliable, pleasant, consistent, intelligent, and transparent. Result: I trust you.
+- Affective trust, on the other hand, arises from feelings of emotional closeness, empathy, or
+friendship. This type of trust comes from the heart. We laugh together, relax together, and see each
+other at a personal level, so that I feel affection or empathy for you and sense that you feel the same
+for me. Result: I trust you.
 
+- Task-based: trust is built through business-related activities, Work relationships are built and dropped easily, based on the practicality of the situation. You do good work consistently, you are reliable, I enjoy working with you, I trust you.
+- relationship-based: trust is built through sharing  meals, evening drinks, and visits at the coffee machine. Work relationships build up slowly over the long term. Ive seen who you are at a deep level, Ive shared personal time with you, I know others well who trust you, I trust you.
 
-
+- SHOWING YOUR TRUE SELF: THE RELATIONSHIP IS THE CONTRACT
 
 ## Glossary 
 **groceries** /ˈɡrəʊsəriz/ n. 食品杂货
