@@ -26,3 +26,30 @@ Manuel刺伤了一名想要殴打他的防暴警察，随后逃亡并躲藏在�
 
 H.H  
 2025年12月30日
+
+# Las frases que he cogido del libro
+
+1.  No quiero nada, ni siquiera quiero querer. 我什么都不想要，甚至连“想要”的欲望都没有。
+- 不是“得不到”，而是主动撤回欲望。
+
+2. La sociedad no está hecha para todos. 社会并不是为所有人而设计的。
+- 不是失败者，而是不适配者。
+
+3. Ser pobre no es una desgracias, es una condición. 贫穷不是不幸，而是一种状态。
+- 拒绝把自己的生活包装成“悲剧”，也拒绝接受他人施加的怜悯。
+
+4. Cuando no encajas, aprendes a desaparece. 当你无法融入时，你学会的就是消失。
+- 不是反抗，而是隐匿。
+
+5. Fracasar no fue el problema, el problema era participar. 失败从来不是问题，问题在于参与其中。
+- 否定了“努力—回报“
+
+6. La libertad es no deberle nada a nadie. 自由，就是不欠任何东西。
+- 不是选择无限多，而是关系最小化。
+
+7. Explicarse es el primer paso para perder. 一旦开始解释，你就已经开始输了。
+- 他不自辩，作者也不替他辩护
+
+
+8. No estaba a salvo, pero estaba tranquilo. 他并不安全，但是他是平静的。
+- 安全 ≠ 平静，而社会常常要求你用平静换取安全。
